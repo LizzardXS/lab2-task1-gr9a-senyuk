@@ -1,4 +1,4 @@
-/* hello.c */
+/* task1.c */
 #include <stdio.h>
 
 void main (void)
